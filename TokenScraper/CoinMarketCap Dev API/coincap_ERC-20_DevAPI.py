@@ -41,7 +41,7 @@ convert = 'USD'
 
 ### CoinMarketCap API
 # EXAMPLE API KEY Call --> https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=a3e5008f-c6b1-471d-9b4c-c4424e8b7d1f
-API_Key = '?CMC_PRO_API_KEY=3245f792-04f0-4517-86be-4c15c30edc1e' # Sam's personal API Key 
+API_Key = Sorry # Sam's personal API Key 
 # listings_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/historical' + API_Key # Not Supported in Free subscription plan
 listings_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest' + API_Key   # Listings Latest
 url_end = '?structure=array&convert=' + convert  # Might not be necessary anymore 
